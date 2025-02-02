@@ -3,3 +3,5 @@
 This project is a review of javascript concepts, from beginner to advance.
 
 # Added a JavaScript Mini Project: Todo App
+
+This project uses basic javascript.
