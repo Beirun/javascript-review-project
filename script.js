@@ -27,7 +27,7 @@ const editTodo = (index) => {
 };
 
 const deleteTodo = (index) => {
-    const confirmed = confirm(`Are you sure you want to delete todo #${index+1}?`);
+    const confirmed = confirm(`Are you sure you want to delete this todo?`);
     if (confirmed) {
         todoList.splice(index, 1);
         renderTodoList();
